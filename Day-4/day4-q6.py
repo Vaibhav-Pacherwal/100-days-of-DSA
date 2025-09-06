@@ -12,4 +12,3 @@ for i in range(len(nums)):
         count += 1
 
 print(count)
-
