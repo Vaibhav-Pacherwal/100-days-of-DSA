@@ -1,18 +1,18 @@
-## Reverse Pair
+# Reverse Pair
 
-## Brute Force
-# nums = [-2, -1, 0, 1, 2]
+# Brute Force
+nums = [-2, -1, 0, 1, 2]
 
-# count = 0
-# for i in range(len(nums)):
-#     for j in range(i+1, len(nums)):
-#         if nums[i] > 2*nums[j]:
-#             print(f"({nums[i]},{nums[j]})")
-#             count += 1
+count = 0
+for i in range(len(nums)):
+    for j in range(i+1, len(nums)):
+        if nums[i] > 2*nums[j]:
+            print(f"({nums[i]},{nums[j]})")
+            count += 1
 
-# print(count)
+print(count)
 
-## Better Approach
+# Better Approach
 nums = [1, 3, 2, 3, 1]
 
 count = 0
@@ -25,3 +25,6 @@ for i in range(len(nums)):
 
 print(count)
     
+
+
+
