@@ -16,5 +16,6 @@ while start <= end:
     else:
         end = mid-1
 
-print(last_mid+1)
+if last_mid+1 == 0:
+    print(len(nums))
 
