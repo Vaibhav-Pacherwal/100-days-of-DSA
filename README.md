@@ -78,6 +78,25 @@ The goal is to improve problem-solving skills, strengthen core concepts, and pre
 ### ✅ Day 11  
 - Single Element in a Sorted Array  
 
+### ✅ Day 12  
+- Reverse vowels in a string  
+- Reverse Words in a String  
+- Increasing Triplet Subsequence  
+
+### ✅ Day 13  
+- Square root of a number using binary search  
+- Nth Root of a Number using Binary Search  
+- Koko Eating Bananas  
+- String Compression  
+
+### ✅ Day 14  
+- Find the Smallest Divisor Given a Threshold  
+- Capacity to Ship Packages Within D Days  
+
+### ✅ Day 15  
+- Kth Missing Positive Number  
+- Book Allocation Problem  
+
 ---
 
 ## 📊 Progress Tracker  
@@ -93,7 +112,11 @@ The goal is to improve problem-solving skills, strengthen core concepts, and pre
 - [x] Day 9  
 - [x] Day 10  
 - [x] Day 11  
-- [ ] Day 12  
+- [x] Day 12  
+- [x] Day 13  
+- [x] Day 14  
+- [x] Day 15  
+- [ ] Day 16  
 - [ ] ...  
 - [ ] Day 100  
 
